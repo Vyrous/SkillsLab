@@ -2,5 +2,6 @@
 
 1 - Ayush Gowreea
 2 - Dave Boyjoo
+3 - Raj Seetohul
 
-Total Contributors: 2
+Total Contributors: 3
