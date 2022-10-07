@@ -151,6 +151,7 @@
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="SkillsLab\Ashfaaq.txt" />
     <Content Include="SkillsLab\Ayush.txt" />
+    <Content Include="SkillsLab\Dave.txt" />
     <Content Include="SkillsLab\Devesh.txt" />
     <Content Include="SkillsLab\Dhiresha.txt" />
     <Content Include="SkillsLab\Divesh.txt" />
