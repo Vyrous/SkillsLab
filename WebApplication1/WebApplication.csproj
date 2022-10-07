@@ -168,7 +168,7 @@
     <Content Include="SkillsLab\Shabneez.txt" />
     <Content Include="SkillsLab\Ved.txt" />
     <Content Include="SkillsLab\Vikesh.txt" />
-    <Content Include="SkillsLab\Vishishta.txt" />
+    <Content Include="SkillsLab\Done\Vishishta.txt" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
