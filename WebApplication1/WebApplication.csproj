@@ -150,9 +150,9 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="SkillsLab\Ashfaaq.txt" />
-    <Content Include="SkillsLab\Ayush.txt" />
+    <Content Include="SkillsLab\Done\Ayush.txt" />
     <Content Include="SkillsLab\Dave.txt" />
-    <Content Include="SkillsLab\Devesh.txt" />
+    <Content Include="SkillsLab\Done\Devesh.txt" />
     <Content Include="SkillsLab\Dhiresha.txt" />
     <Content Include="SkillsLab\Divesh.txt" />
     <Content Include="SkillsLab\Doshil.txt" />
@@ -164,7 +164,7 @@
     <Content Include="SkillsLab\Nelly.txt" />
     <Content Include="SkillsLab\Nilesh.txt" />
     <Content Include="SkillsLab\Poorun.txt" />
-    <Content Include="SkillsLab\Raj.txt" />
+    <Content Include="SkillsLab\Done\Raj.txt" />
     <Content Include="SkillsLab\Rashna.txt" />
     <Content Include="SkillsLab\Done\Shabneez.txt" />
     <Content Include="SkillsLab\Ved.txt" />
