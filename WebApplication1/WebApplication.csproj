@@ -167,7 +167,7 @@
     <Content Include="SkillsLab\Raj.txt" />
     <Content Include="SkillsLab\Rashna.txt" />
     <Content Include="SkillsLab\Shabneez.txt" />
-    <Content Include="SkillsLab\Ved.txt" />
+    <Content Include="SkillsLab\Done\Ved.txt" />
     <Content Include="SkillsLab\Vikesh.txt" />
     <Content Include="SkillsLab\Vishishta.txt" />
     <Content Include="Web.config" />
@@ -188,7 +188,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="SkillsLab\Done\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
