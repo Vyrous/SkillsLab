@@ -158,7 +158,7 @@
     <Content Include="SkillsLab\Doshil.txt" />
     <Content Include="SkillsLab\Ejaz.txt" />
     <Content Include="SkillsLab\Hania.txt" />
-    <Content Include="SkillsLab\Harsha.txt" />
+    <Content Include="SkillsLab\Done\Harsha.txt" />
     <Content Include="SkillsLab\Kritika.txt" />
     <Content Include="SkillsLab\Mehshar.txt" />
     <Content Include="SkillsLab\Nelly.txt" />
@@ -188,7 +188,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="SkillsLab\Done\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
