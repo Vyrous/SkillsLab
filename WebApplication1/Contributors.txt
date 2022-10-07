@@ -1,6 +1,5 @@
 ﻿Add your name in ascending order:
 
 1 - Dave Boyjoo
-2- Nelly Sooben
 
-Total Contributors: 2
+Total Contributors: 1
