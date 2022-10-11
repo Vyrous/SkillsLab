@@ -6,5 +6,6 @@
 4 - Devesh Udhin
 5 - Nelly Sooben
 6 - Raj Seetohul
+7 - Ved Rowjee
 
-Total Contributors: 6
+Total Contributors: 7

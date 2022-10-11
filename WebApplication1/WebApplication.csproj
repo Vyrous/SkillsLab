@@ -155,6 +155,7 @@
     <Content Include="SkillsLab\Done\Devesh.txt" />
     <Content Include="SkillsLab\Dhiresha.txt" />
     <Content Include="SkillsLab\Divesh.txt" />
+    <Content Include="SkillsLab\Done\Ved.txt" />
     <Content Include="SkillsLab\Doshil.txt" />
     <Content Include="SkillsLab\Ejaz.txt" />
     <Content Include="SkillsLab\Hania.txt" />
@@ -167,7 +168,6 @@
     <Content Include="SkillsLab\Done\Raj.txt" />
     <Content Include="SkillsLab\Rashna.txt" />
     <Content Include="SkillsLab\Done\Shabneez.txt" />
-    <Content Include="SkillsLab\Ved.txt" />
     <Content Include="SkillsLab\Vikesh.txt" />
     <Content Include="SkillsLab\Vishishta.txt" />
     <Content Include="Web.config" />
